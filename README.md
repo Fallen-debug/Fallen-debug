@@ -23,3 +23,19 @@ Main tools: TS (+ fuse.js, next.js app), Supabase with postgresql, Python(Senten
 * [Python_soundboard](https://github.com/Fallen-debug/Python_soundboard) - A tool for generating, manipulating and filtering sound waves
 * [Hangman_Minigame](https://github.com/Fallen-debug/Hangman_Minigame) - . A Hangman game variation with Matplotlib - "Ticking Timebomb"
 * [website_task-practise](https://github.com/Fallen-debug/website_task-practise) - A responsive website migrated from GitLab
+
+
+### Tools
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Tkinter](https://img.shields.io/badge/🪶Tkinter-39D2FA?style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+
+### Database & DevOps
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-FFFFFF?style=for-the-badge&logo=postgresql&logoColor=blue)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
