@@ -1,6 +1,6 @@
 # Hello there 
 
-I'm a developer and student, and this is overview of my projects.
+I'm a developer and student, and this is an overview of my projects.
 
 ### Coming Soon
 - **Python Weather App:** Building an intuitive Streamlit GUI utilizing the OpenWeather API to provide 7-day graphical forecasts, advanced recommendations, and city search functionality.
