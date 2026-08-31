@@ -3,9 +3,9 @@
 I'm a developer and student, and this is an overview of my projects.
 
 ### Coming Soon
-- **Python Weather App:** Building an entirely opensource and intuitive Streamlit GUI utilizing the OpenWeather API to provide 7-day forecasts, advanced recommendations, and city search functionality (with an optional dropdown menu that matches inserted text). Additional features will be interactive, vector based heat and wind maps with particle simulations as well as a fully customisable homepage to match the user's needs. 
+- **Python Weather App:** Building an entirely open-source and intuitive Weather app (apk for mobile), mainly utilizing Streamlit and Open-Meteo API to provide weather data (current/hourly/daily) and packaging it into modular widgets, giving advanced recommendations and a minigame for your selected location. Additional features will be interactive, vector-based heat and wind maps with particle simulations as well as a fully customisable homepage to match the user's needs. All user-data stays local on your device for total privacy.
 - **Project Sleepy.io:** Refactoring my existing full-stack web app project (Flask, Python, SQL, HTML/CSS/JS).
-- The application features a sleep quality interactive test for self-assessment and an NLTK chatbot (built with Rake and Sentence Transformers, transformers, spacy and numpy) capable of Google searches for additional functionality and user assistance.
+- The application features a sleep quality interactive test for self-assessment and an NLTK chatbot (built with Rake and Sentence Transformers, transformers, spaCy and NumPy) capable of Google searches for additional functionality and user assistance.
 - The current updates focus heavily on bug fixes and implementing defensive programming and improving architecture.
 
 
