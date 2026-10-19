@@ -14,10 +14,11 @@ The current updates focus heavily on bug fixes and implementing defensive progra
 ### My Current Projects
 * [NAVIS](https://github.com/TuBerlin-Projekt-Medienerstellung/StudiKompass) -
 A TU Berlin project where I act as the Fullstack Technical Lead, with a primary focus as Lead Backend Developer, and Data Architect.
-My contributions include but are not limited to: managing the primary database, engineering a Dockerized async ETL pipeline in Python, implementing ML features, handling DevOps, and mentoring my teammates regarding workflow and strategies.
+Key contributions include managing the primary database, engineering a Dockerized async ETL pipeline in Python, implementing ML features, overseeing DevOps, and mentoring the team on development workflows and strategies. I also focus on improving UX and establishing clear policies regarding user privacy, data processing, and forum guidelines (a semi-automatic administration and reporting workflow is now available).
+
 My responsibilities also include architecting the web app's structure and components as well as their interactions, conducting code reviews, and engaging testers to collect feedback for continuous UX improvements.
 
-I am currently tasked with deploying the application to university servers.
+I am currently tasked with deploying the application to a university VM.
 
 Main tools: TS (+ fuse.js, next.js app), Supabase with postgresql, Python(Sentence_transformers, KeyBERT (Pytorch), complex async fetching and threading, Docker), university database endpoints, CI/CD pipelines, Tailwindcss, Wikidata (SPARQL), Vercel
 
